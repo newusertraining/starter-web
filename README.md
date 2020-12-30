@@ -9,4 +9,9 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This is the description about the deployment 
+
+
 ## How To Contribute
+
+This is the description about the contribute section
