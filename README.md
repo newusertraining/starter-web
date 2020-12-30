@@ -20,4 +20,4 @@ This is the description about the contribute section
 
 ### Copyright
 
-2020 Curt Jerome
+2020 CurtJerome
