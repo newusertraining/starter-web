@@ -16,7 +16,7 @@ This is the description about the deployment
 
 ## How To Contribute
 
-This is the description about the contribute section
+Please fork this repository and then issue Pull Request for review.
 
 ### Copyright
 
