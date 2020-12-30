@@ -17,3 +17,7 @@ This is the description about the deployment
 ## How To Contribute
 
 This is the description about the contribute section
+
+### Copyright
+
+2020 Curt Jerome
